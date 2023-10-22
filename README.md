@@ -1,0 +1,1 @@
+View https://ja.wikibooks.org/wiki/Brainfuck
